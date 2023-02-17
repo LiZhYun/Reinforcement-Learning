@@ -1,0 +1,2 @@
+COMA 默认动作的选择问题
+coordination algorithms：全局 邻域 个体间  可以融合考虑
